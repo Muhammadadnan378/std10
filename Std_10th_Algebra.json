@@ -1190,927 +1190,927 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "chapterName": "5 Probability",
+          "questions": [
+            {
+              "questionsTitle": "Choose the correct alternative.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Which of the following can be the probability of an event?",
+                  "ans": "The probability of an event must be between 0 and 1, inclusive.\nHence, the correct answer is a number between 0 and 1 (e.g., 0.7).",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
             },
             {
-              "chapterName": "5 Probability",
-              "questions": [
+              "questionsTitle": "Choose the correct alternative.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Choose the correct alternative.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "Which of the following can be the probability of an event?",
-                      "ans": "The probability of an event must be between 0 and 1, inclusive.\nHence, the correct answer is a number between 0 and 1 (e.g., 0.7).",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A card is drawn from a well-shuffled deck of 52 cards. What is the probability of getting a king?",
+                  "ans": "Total cards = 52\nNumber of kings = 4\nProbability = Number of favorable outcomes ÷ Total outcomes\n= 4 ÷ 52 = 1 ÷ 13\nHence, the correct answer is 1 ÷ 13.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Choose the correct alternative.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Choose the correct alternative.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "A card is drawn from a well-shuffled deck of 52 cards. What is the probability of getting a king?",
-                      "ans": "Total cards = 52\nNumber of kings = 4\nProbability = Number of favorable outcomes ÷ Total outcomes\n= 4 ÷ 52 = 1 ÷ 13\nHence, the correct answer is 1 ÷ 13.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A die is thrown once. What is the probability of getting an even number?",
+                  "ans": "Total outcomes = 6 (numbers 1 to 6)\nFavorable outcomes = 3 (even numbers: 2, 4, 6)\nProbability = Number of favorable outcomes ÷ Total outcomes\n= 3 ÷ 6 = 1 ÷ 2\nHence, the correct answer is 1 ÷ 2.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Choose the correct alternative.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Choose the correct alternative.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "A die is thrown once. What is the probability of getting an even number?",
-                      "ans": "Total outcomes = 6 (numbers 1 to 6)\nFavorable outcomes = 3 (even numbers: 2, 4, 6)\nProbability = Number of favorable outcomes ÷ Total outcomes\n= 3 ÷ 6 = 1 ÷ 2\nHence, the correct answer is 1 ÷ 2.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A bag contains 5 red balls and some blue balls. If the probability of drawing a blue ball is double that of a red ball, how many blue balls are there in the bag?",
+                  "ans": "Let the number of blue balls be x.\nTotal balls = 5 + x\nProbability of red ball = 5 ÷ (5 + x)\nProbability of blue ball = x ÷ (5 + x)\nGiven: Probability of blue ball = 2 × Probability of red ball\nx ÷ (5 + x) = 2 × [5 ÷ (5 + x)]\nx = 10\nHence, the number of blue balls is 10.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Solve the following problem.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Choose the correct alternative.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "A bag contains 5 red balls and some blue balls. If the probability of drawing a blue ball is double that of a red ball, how many blue balls are there in the bag?",
-                      "ans": "Let the number of blue balls be x.\nTotal balls = 5 + x\nProbability of red ball = 5 ÷ (5 + x)\nProbability of blue ball = x ÷ (5 + x)\nGiven: Probability of blue ball = 2 × Probability of red ball\nx ÷ (5 + x) = 2 × [5 ÷ (5 + x)]\nx = 10\nHence, the number of blue balls is 10.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A bag contains 3 red balls and 5 black balls. A ball is drawn at random from the bag. What is the probability that the ball drawn is (i) red, (ii) not red?",
+                  "ans": "Total balls = 3 + 5 = 8\n(i) Probability of red ball = Number of red balls ÷ Total balls\n= 3 ÷ 8\n(ii) Probability of not red = Number of black balls ÷ Total balls\n= 5 ÷ 8\nHence, (i) 3 ÷ 8, (ii) 5 ÷ 8.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Solve the following problem.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Solve the following problem.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "A bag contains 3 red balls and 5 black balls. A ball is drawn at random from the bag. What is the probability that the ball drawn is (i) red, (ii) not red?",
-                      "ans": "Total balls = 3 + 5 = 8\n(i) Probability of red ball = Number of red balls ÷ Total balls\n= 3 ÷ 8\n(ii) Probability of not red = Number of black balls ÷ Total balls\n= 5 ÷ 8\nHence, (i) 3 ÷ 8, (ii) 5 ÷ 8.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A box contains 5 red, 8 blue, and 3 green marbles. A marble is chosen at random. What is the probability that it is not blue?",
+                  "ans": "Total marbles = 5 + 8 + 3 = 16\nNumber of non-blue marbles = 5 + 3 = 8\nProbability of not blue = Number of non-blue marbles ÷ Total marbles\n= 8 ÷ 16 = 1 ÷ 2\nHence, the probability is 1 ÷ 2.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Solve the following problem.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Solve the following problem.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "A box contains 5 red, 8 blue, and 3 green marbles. A marble is chosen at random. What is the probability that it is not blue?",
-                      "ans": "Total marbles = 5 + 8 + 3 = 16\nNumber of non-blue marbles = 5 + 3 = 8\nProbability of not blue = Number of non-blue marbles ÷ Total marbles\n= 8 ÷ 16 = 1 ÷ 2\nHence, the probability is 1 ÷ 2.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A die is thrown. Find the probability of getting (i) a prime number, (ii) a number greater than or equal to 3.",
+                  "ans": "Total outcomes = 6\n(i) Prime numbers = {2, 3, 5} = 3\nProbability of prime number = 3 ÷ 6 = 1 ÷ 2\n(ii) Numbers ≥ 3 = {3, 4, 5, 6} = 4\nProbability of number ≥ 3 = 4 ÷ 6 = 2 ÷ 3\nHence, (i) 1 ÷ 2, (ii) 2 ÷ 3.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Solve the following problem.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Solve the following problem.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "A die is thrown. Find the probability of getting (i) a prime number, (ii) a number greater than or equal to 3.",
-                      "ans": "Total outcomes = 6\n(i) Prime numbers = {2, 3, 5} = 3\nProbability of prime number = 3 ÷ 6 = 1 ÷ 2\n(ii) Numbers ≥ 3 = {3, 4, 5, 6} = 4\nProbability of number ≥ 3 = 4 ÷ 6 = 2 ÷ 3\nHence, (i) 1 ÷ 2, (ii) 2 ÷ 3.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A card is drawn at random from a well-shuffled deck of 52 cards. Find the probability that the card drawn is (i) a king, (ii) a red card.",
+                  "ans": "Total cards = 52\n(i) Number of kings = 4\nProbability of a king = 4 ÷ 52 = 1 ÷ 13\n(ii) Number of red cards = 26\nProbability of a red card = 26 ÷ 52 = 1 ÷ 2\nHence, (i) 1 ÷ 13, (ii) 1 ÷ 2.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Solve the following problem.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Solve the following problem.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "A card is drawn at random from a well-shuffled deck of 52 cards. Find the probability that the card drawn is (i) a king, (ii) a red card.",
-                      "ans": "Total cards = 52\n(i) Number of kings = 4\nProbability of a king = 4 ÷ 52 = 1 ÷ 13\n(ii) Number of red cards = 26\nProbability of a red card = 26 ÷ 52 = 1 ÷ 2\nHence, (i) 1 ÷ 13, (ii) 1 ÷ 2.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A bag contains 4 white, 5 red, and 6 blue balls. A ball is drawn at random. Find the probability that the ball drawn is (i) red, (ii) not red.",
+                  "ans": "Total balls = 4 + 5 + 6 = 15\n(i) Number of red balls = 5\nProbability of red ball = 5 ÷ 15 = 1 ÷ 3\n(ii) Number of non-red balls = 4 + 6 = 10\nProbability of not red = 10 ÷ 15 = 2 ÷ 3\nHence, (i) 1 ÷ 3, (ii) 2 ÷ 3.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Solve the following problem.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Solve the following problem.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "A bag contains 4 white, 5 red, and 6 blue balls. A ball is drawn at random. Find the probability that the ball drawn is (i) red, (ii) not red.",
-                      "ans": "Total balls = 4 + 5 + 6 = 15\n(i) Number of red balls = 5\nProbability of red ball = 5 ÷ 15 = 1 ÷ 3\n(ii) Number of non-red balls = 4 + 6 = 10\nProbability of not red = 10 ÷ 15 = 2 ÷ 3\nHence, (i) 1 ÷ 3, (ii) 2 ÷ 3.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A box contains 10 white, 6 red, and 4 black balls. A ball is drawn at random. Find the probability that the ball drawn is (i) white, (ii) not black.",
+                  "ans": "Total balls = 10 + 6 + 4 = 20\n(i) Number of white balls = 10\nProbability of white ball = 10 ÷ 20 = 1 ÷ 2\n(ii) Number of non-black balls = 10 + 6 = 16\nProbability of not black = 16 ÷ 20 = 4 ÷ 5\nHence, (i) 1 ÷ 2, (ii) 4 ÷ 5.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Solve the following problem.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Solve the following problem.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "A box contains 10 white, 6 red, and 4 black balls. A ball is drawn at random. Find the probability that the ball drawn is (i) white, (ii) not black.",
-                      "ans": "Total balls = 10 + 6 + 4 = 20\n(i) Number of white balls = 10\nProbability of white ball = 10 ÷ 20 = 1 ÷ 2\n(ii) Number of non-black balls = 10 + 6 = 16\nProbability of not black = 16 ÷ 20 = 4 ÷ 5\nHence, (i) 1 ÷ 2, (ii) 4 ÷ 5.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A die is thrown twice. Find the probability that (i) both numbers are even, (ii) the sum of the numbers is at least 10.",
+                  "ans": "Total outcomes = 6 × 6 = 36\n(i) Even numbers = {2, 4, 6}\nNumber of even pairs = 3 × 3 = 9\nProbability of both even = 9 ÷ 36 = 1 ÷ 4\n(ii) Pairs with sum ≥ 10 = {(4, 6), (5, 5), (5, 6), (6, 4), (6, 5), (6, 6)} = 6\nProbability of sum ≥ 10 = 6 ÷ 36 = 1 ÷ 6\nHence, (i) 1 ÷ 4, (ii) 1 ÷ 6.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Solve the following problem.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Solve the following problem.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "A die is thrown twice. Find the probability that (i) both numbers are even, (ii) the sum of the numbers is at least 10.",
-                      "ans": "Total outcomes = 6 × 6 = 36\n(i) Even numbers = {2, 4, 6}\nNumber of even pairs = 3 × 3 = 9\nProbability of both even = 9 ÷ 36 = 1 ÷ 4\n(ii) Pairs with sum ≥ 10 = {(4, 6), (5, 5), (5, 6), (6, 4), (6, 5), (6, 6)} = 6\nProbability of sum ≥ 10 = 6 ÷ 36 = 1 ÷ 6\nHence, (i) 1 ÷ 4, (ii) 1 ÷ 6.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A card is drawn from a well-shuffled deck of 52 cards, and then a second card is drawn without replacement. Find the probability that (i) both cards are aces, (ii) the first card is an ace and the second is a king.",
+                  "ans": "Total cards = 52\n(i) Number of aces = 4\nProbability of first ace = 4 ÷ 52\nProbability of second ace (without replacement) = 3 ÷ 51\nProbability of both aces = (4 ÷ 52) × (3 ÷ 51) = 12 ÷ 2652 = 1 ÷ 221\n(ii) Probability of first ace = 4 ÷ 52\nProbability of second king = 4 ÷ 51\nProbability = (4 ÷ 52) × (4 ÷ 51) = 16 ÷ 2652 = 4 ÷ 663\nHence, (i) 1 ÷ 221, (ii) 4 ÷ 663.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Solve the following problem.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Solve the following problem.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "A card is drawn from a well-shuffled deck of 52 cards, and then a second card is drawn without replacement. Find the probability that (i) both cards are aces, (ii) the first card is an ace and the second is a king.",
-                      "ans": "Total cards = 52\n(i) Number of aces = 4\nProbability of first ace = 4 ÷ 52\nProbability of second ace (without replacement) = 3 ÷ 51\nProbability of both aces = (4 ÷ 52) × (3 ÷ 51) = 12 ÷ 2652 = 1 ÷ 221\n(ii) Probability of first ace = 4 ÷ 52\nProbability of second king = 4 ÷ 51\nProbability = (4 ÷ 52) × (4 ÷ 51) = 16 ÷ 2652 = 4 ÷ 663\nHence, (i) 1 ÷ 221, (ii) 4 ÷ 663.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A bag contains 6 red balls and 4 blue balls. Two balls are drawn at random without replacement. Find the probability that (i) both are red, (ii) one is red and one is blue.",
+                  "ans": "Total balls = 6 + 4 = 10\n(i) Probability of first red = 6 ÷ 10\nProbability of second red = 5 ÷ 9\nProbability of both red = (6 ÷ 10) × (5 ÷ 9) = 30 ÷ 90 = 1 ÷ 3\n(ii) Probability of red then blue = (6 ÷ 10) × (4 ÷ 9) = 24 ÷ 90 = 4 ÷ 15\nProbability of blue then red = (4 ÷ 10) × (6 ÷ 9) = 24 ÷ 90 = 4 ÷ 15\nTotal probability = (4 ÷ 15) + (4 ÷ 15) = 8 ÷ 15\nHence, (i) 1 ÷ 3, (ii) 8 ÷ 15.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Solve the following problem.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Solve the following problem.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "A bag contains 6 red balls and 4 blue balls. Two balls are drawn at random without replacement. Find the probability that (i) both are red, (ii) one is red and one is blue.",
-                      "ans": "Total balls = 6 + 4 = 10\n(i) Probability of first red = 6 ÷ 10\nProbability of second red = 5 ÷ 9\nProbability of both red = (6 ÷ 10) × (5 ÷ 9) = 30 ÷ 90 = 1 ÷ 3\n(ii) Probability of red then blue = (6 ÷ 10) × (4 ÷ 9) = 24 ÷ 90 = 4 ÷ 15\nProbability of blue then red = (4 ÷ 10) × (6 ÷ 9) = 24 ÷ 90 = 4 ÷ 15\nTotal probability = (4 ÷ 15) + (4 ÷ 15) = 8 ÷ 15\nHence, (i) 1 ÷ 3, (ii) 8 ÷ 15.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
+                  "question": "A box contains 12 balls out of which x are black. If one ball is drawn at random, the probability of getting a black ball is x ÷ 12. If 6 more black balls are added, the probability becomes 2x ÷ 9. Find x.",
+                  "ans": "Initial probability of black ball = x ÷ 12\nAfter adding 6 black balls, total balls = 12 + 6 = 18\nNumber of black balls = Manitx + 6\nNew probability = (x + 6) ÷ 18 = 2x ÷ 9\n(x + 6) ÷ 18 = 2x ÷ 9\n9(x + 6) = 18 × 2x\n9x + 54 = 36x\n54 = 27x\nx = 54 ÷ 27 = 2\nHence, x = 2.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterName": "6 Statistics",
+          "questions": [
+            {
+              "questionsTitle": "Find the correct answer from the alternatives given.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Solve the following problem.",
-                  "questionsImage": null,
-                  "subQuestion": [
+                  "question": "The persons of O - blood group are 40%. The classification of persons based on blood groups is to be shown by a pie diagram. What should be the measures of angle for the persons of O - blood group?",
+                  "ans": "In a pie diagram, 100% = 360°\n1% = 360 ÷ 100 = 3.6°\n40% = 3.6 × 40 = 144°\nHence, the measure of angle for the O-blood group is 144°.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find the correct answer from the alternatives given.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Different expenditures incurred on the construction of a building were shown by a pie diagram. The expenditure ₹45000 on cement was shown by a sector of central angle of 75°. What was the total expenditure of the construction?",
+                  "ans": "Central angle for cement = 75°\nExpenditure on cement = ₹45000\nTotal expenditure = (Expenditure on cement × 360°) ÷ Central angle\n= (45000 × 360) ÷ 75 = ₹216000\nHence, the total expenditure is ₹216000.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find the correct answer from the alternatives given.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Cumulative frequencies in a grouped frequency table are useful to find ______.",
+                  "ans": "Cumulative frequencies in a grouped frequency table are used to find the median of the data.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find the correct answer from the alternatives given.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "The formula to find mean from a grouped frequency table is \\[\\bar{X} = A + \\frac{\\sum f_i u_i}{\\sum f_i} \\times h\\]. In this formula, \\[u_i = \\frac{x_i - A}{h}\\].",
+                  "ans": "The formula to find the mean of a grouped frequency table is \\[\\bar{X} = A + \\frac{\\sum f_i u_i}{\\sum f_i} \\times h\\], where \\[u_i = \\frac{x_i - A}{h}\\].",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find the correct answer from the alternatives given.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "The median of the distances covered per litre shown in the following data is in the group: Distance Covered per litre (km) | 12 - 14 | 14 - 16 | 16 - 18 | 18 - 20 | No. of cars | 11 | 12 | 20 | 7",
+                  "ans": "The class 16 - 18 has the highest frequency (20).\nThus, the median of the distances covered per litre lies in the 16 - 18 group.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find the correct answer from the alternatives given.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "The above data is to be shown by a frequency polygon. The coordinates of the points to show number of students in the class 4-6 are: No. of trees planted by each student | 1 - 3 | 4 - 6 | 7 - 9 | 10 - 12 | No. of students | 7 | 8 | 6 | 4",
+                  "ans": "The coordinates of the points to show the number of students in the class 4-6 are (5, 8).",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find the mean of the income of farmers in a grape season.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "The following table shows the income of farmers in a grape season. Find the mean of their income: Class (Income in thousand rupees) | 20 - 30 | 30 - 40 | 40 - 50 | 50 - 60 | 60 - 70 | 70 - 80 | No. of farmers | 10 | 11 | 15 | 16 | 18 | 14",
+                  "ans": "Class | Class Mark (x_i) | Frequency (f_i) | x_i f_i\n20 - 30 | 25 | 10 | 250\n30 - 40 | 35 | 11 | 385\n40 - 50 | 45 | 15 | 675\n50 - 60 | 55 | 16 | 880\n60 - 70 | 65 | 18 | 1170\n70 - 80 | 75 | 14 | 1050\nTotal | | ∑f_i = 84 | ∑x_i f_i = 4410\nMean = ∑x_i f_i ÷ ∑f_i\n= 4410 ÷ 84 = 52.5\nHence, the mean income is 52.5 thousand rupees = ₹52500.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": [
                     {
-                      "question": "A box contains 12 balls out of which x are black. If one ball is drawn at random, the probability of getting a black ball is x ÷ 12. If 6 more black balls are added, the probability becomes 2x ÷ 9. Find x.",
-                      "ans": "Initial probability of black ball = x ÷ 12\nAfter adding 6 black balls, total balls = 12 + 6 = 18\nNumber of black balls = Manitx + 6\nNew probability = (x + 6) ÷ 18 = 2x ÷ 9\n(x + 6) ÷ 18 = 2x ÷ 9\n9(x + 6) = 18 × 2x\n9x + 54 = 36x\n54 = 27x\nx = 54 ÷ 27 = 2\nHence, x = 2.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
+                      "Column 1": "20 - 30",
+                      "Column 2": "25",
+                      "Column 3": "10",
+                      "Column 4": "250"
+                    },
+                    {
+                      "Column 1": "30 - 40",
+                      "Column 2": "35",
+                      "Column 3": "11",
+                      "Column 4": "385"
+                    },
+                    {
+                      "Column 1": "40 - 50",
+                      "Column 2": "45",
+                      "Column 3": "15",
+                      "Column 4": "675"
+                    },
+                    {
+                      "Column 1": "50 - 60",
+                      "Column 2": "55",
+                      "Column 3": "16",
+                      "Column 4": "880"
+                    },
+                    {
+                      "Column 1": "60 - 70",
+                      "Column 2": "65",
+                      "Column 3": "18",
+                      "Column 4": "1170"
+                    },
+                    {
+                      "Column 1": "70 - 80",
+                      "Column 2": "75",
+                      "Column 3": "14",
+                      "Column 4": "1050"
+                    },
+                    {
+                      "Column 1": "",
+                      "Column 2": "",
+                      "Column 3": "∑f_i = 84",
+                      "Column 4": "∑x_i f_i = 4410"
                     }
                   ]
                 }
               ]
             },
             {
-              "chapterName": "6 Statistics",
-              "questions": [
+              "questionsTitle": "Find the mean of the loans sanctioned by a bank for construction of farm ponds.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Find the correct answer from the alternatives given.",
-                  "questionsImage": null,
-                  "subQuestion": [
+                  "question": "The loans sanctioned by a bank for construction of farm ponds are shown in the following table. Find the mean of the loans: Loan (Thousand Rupees) | 40 - 50 | 50 - 60 | 60 - 70 | 70 - 80 | 80 - 90 | No. of farm ponds | 13 | 20 | 24 | 36 | 7",
+                  "ans": "Class | Class Mark (x_i) | Frequency (f_i) | x_i f_i\n40 - 50 | 45 | 13 | 585\n50 - 60 | 55 | 20 | 1100\n60 - 70 | 65 | 24 | 1560\n70 - 80 | 75 | 36 | 2700\n80 - 90 | 85 | 7 | 595\nTotal | | ∑f_i = 100 | ∑x_i f_i = 6540\nMean = ∑x_i f_i ÷ ∑f_i\n= 6540 ÷ 100 = 65\nHence, the mean of the loans is 65 thousand rupees = ₹65000.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": [
                     {
-                      "question": "The persons of O - blood group are 40%. The classification of persons based on blood groups is to be shown by a pie diagram. What should be the measures of angle for the persons of O - blood group?",
-                      "ans": "In a pie diagram, 100% = 360°\n1% = 360 ÷ 100 = 3.6°\n40% = 3.6 × 40 = 144°\nHence, the measure of angle for the O-blood group is 144°.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
+                      "Column 1": "40 - 50",
+                      "Column 2": "45",
+                      "Column 3": "13",
+                      "Column 4": "585"
+                    },
+                    {
+                      "Column 1": "50 - 60",
+                      "Column 2": "55",
+                      "Column 3": "20",
+                      "Column 4": "1100"
+                    },
+                    {
+                      "Column 1": "60 - 70",
+                      "Column 2": "65",
+                      "Column 3": "24",
+                      "Column 4": "1560"
+                    },
+                    {
+                      "Column 1": "70 - 80",
+                      "Column 2": "75",
+                      "Column 3": "36",
+                      "Column 4": "2700"
+                    },
+                    {
+                      "Column 1": "80 - 90",
+                      "Column 2": "85",
+                      "Column 3": "7",
+                      "Column 4": "595"
+                    },
+                    {
+                      "Column 1": "",
+                      "Column 2": "",
+                      "Column 3": "∑f_i = 100",
+                      "Column 4": "∑x_i f_i = 6540"
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find the mean of the weekly wages of 120 workers in a factory.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Find the correct answer from the alternatives given.",
-                  "questionsImage": null,
-                  "subQuestion": [
+                  "question": "The weekly wages of 120 workers in a factory are shown in the following frequency distribution table. Find the mean of the weekly wages: Weekly wages (Rupees) | 0 - 2000 | 2000 - 4000 | 4000 - 6000 | 6000 - 8000 | No. of workers | 15 | 35 | 50 | 20",
+                  "ans": "Class | Class Mark (x_i) | Frequency (f_i) | x_i f_i\n0 - 2000 | 1000 | 15 | 15000\n2000 - 4000 | 3000 | 35 | 105000\n4000 - 6000 | 5000 | 50 | 250000\n6000 - 8000 | 7000 | 20 | 140000\nTotal | | ∑f_i = 120 | ∑x_i f_i = 510000\nMean = ∑x_i f_i ÷ ∑f_i\n= 510000 ÷ 120 = 4250\nHence, the mean of the weekly wages is ₹4250.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": [
                     {
-                      "question": "Different expenditures incurred on the construction of a building were shown by a pie diagram. The expenditure ₹45000 on cement was shown by a sector of central angle of 75°. What was the total expenditure of the construction?",
-                      "ans": "Central angle for cement = 75°\nExpenditure on cement = ₹45000\nTotal expenditure = (Expenditure on cement × 360°) ÷ Central angle\n= (45000 × 360) ÷ 75 = ₹216000\nHence, the total expenditure is ₹216000.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
+                      "Column 1": "0 - 2000",
+                      "Column 2": "1000",
+                      "Column 3": "15",
+                      "Column 4": "15000"
+                    },
+                    {
+                      "Column 1": "2000 - 4000",
+                      "Column 2": "3000",
+                      "Column 3": "35",
+                      "Column 4": "105000"
+                    },
+                    {
+                      "Column 1": "4000 - 6000",
+                      "Column 2": "5000",
+                      "Column 3": "50",
+                      "Column 4": "250000"
+                    },
+                    {
+                      "Column 1": "6000 - 8000",
+                      "Column 2": "7000",
+                      "Column 3": "20",
+                      "Column 4": "140000"
+                    },
+                    {
+                      "Column 1": "",
+                      "Column 2": "",
+                      "Column 3": "∑f_i = 120",
+                      "Column 4": "∑x_i f_i = 510000"
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find the mean of the amount of aid given to 50 flood-affected families.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Find the correct answer from the alternatives given.",
-                  "questionsImage": null,
-                  "subQuestion": [
+                  "question": "The following frequency distribution table shows the amount of aid given to 50 flood affected families. Find the mean of the amount of aid: Amount of aid (Thousand rupees bitte) | 50 - 60 | 60 - 70 | 70 - 80 | 80 - 90 | 90 - 100 | No. of families | 7 | 13 | 20 | 6 | 4",
+                  "ans": "Class | Class Mark (x_i) | Frequency (f_i) | x_i f_i\n50 - 60 | 55 | 7 | 385\n60 - 70 | 65 | 13 | 845\n70 - 80 | 75 | 20 | 1500\n80 - 90 | 85 | 6 | 510\n90 - 100 | 95 | 4 | 380\nTotal | | ∑f_i = 50 | ∑x_i f_i = 3620\nMean = ∑x_i f_i ÷ ∑f_i\n= 3620 ÷ 50 = 72.4\nHence, the mean of the amount of aid is 72.4 thousand rupees = ₹72400.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": [
                     {
-                      "question": "Cumulative frequencies in a grouped frequency table are useful to find ______.",
-                      "ans": "Cumulative frequencies in a grouped frequency table are used to find the median of the data.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
+                      "Column 1": "50 - 60",
+                      "Column 2": "55",
+                      "Column 3": "7",
+                      "Column 4": "385"
+                    },
+                    {
+                      "Column 1": "60 - 70",
+                      "Column 2": "65",
+                      "Column 3": "13",
+                      "Column 4": "845"
+                    },
+                    {
+                      "Column 1": "70 - 80",
+                      "Column 2": "75",
+                      "Column 3": "20",
+                      "Column 4": "1500"
+                    },
+                    {
+                      "Column 1": "80 - 90",
+                      "Column 2": "85",
+                      "Column 3": "6",
+                      "Column 4": "510"
+                    },
+                    {
+                      "Column 1": "90 - 100",
+                      "Column 2": "95",
+                      "Column 3": "4",
+                      "Column 4": "380"
+                    },
+                    {
+                      "Column 1": "",
+                      "Column 2": "",
+                      "Column 3": "∑f_i = 50",
+                      "Column 4": "∑x_i f_i = 3620"
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find the median of the distance covered by 250 public transport buses in a day.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Find the correct answer from the alternatives given.",
-                  "questionsImage": null,
-                  "subQuestion": [
+                  "question": "The distances covered by 250 public transport buses in a day is shown in the following frequency distribution table. Find the median of the distance: Distance (km) | 200 - 210 | 210 - 220 | 220 - 230 | 230 - 240 | 240 - 250 | seviyes No. of buses | 40 | 60 | 80 | 50 | 20",
+                  "ans": "Class | Frequency (f_i) | Cumulative frequency (less than upper limit)\n200 - 210 | 40 | 40\n210 - 220 | 60 | 100\n220 - 230 (Median Class) | 80 | 180\n230 - 240 | 50 | 230\n240 - 250 | 20 | 250\nTotal | N = 250 |\nL (Lower class limit of the median class) = 220\nN (Sum of frequencies) = 250\nh (Class interval of the median class) = 10\nf (Frequency of the median class) = 80\ncf (Cumulative frequency of the class preceding the median class) = 100\nMedian = L + [(N ÷ 2 − cf) ÷ f] × h\n= 220 + [(250 ÷ 2 − 100) ÷ 80] × 10\n= 220 + [25 ÷ 80] × 10\n= 220 + 3.125\n= 223.125 km\nHence, the median of the distances is 223.125 km.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": [
                     {
-                      "question": "The formula to find mean from a grouped frequency table is \\[\\bar{X} = A + \\frac{\\sum f_i u_i}{\\sum f_i} \\times h\\]. In this formula, \\[u_i = \\frac{x_i - A}{h}\\].",
-                      "ans": "The formula to find the mean of a grouped frequency table is \\[\\bar{X} = A + \\frac{\\sum f_i u_i}{\\sum f_i} \\times h\\], where \\[u_i = \\frac{x_i - A}{h}\\].",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
+                      "Column 1": "200 - 210",
+                      "Column 2": "40",
+                      "Column 3": "40"
+                    },
+                    {
+                      "Column 1": "210 - 220",
+                      "Column 2": "60",
+                      "Column 3": "100"
+                    },
+                    {
+                      "Column 1": "220 - 230 (Median Class)",
+                      "Column 2": "80",
+                      "Column 3": "180"
+                    },
+                    {
+                      "Column 1": "230 - 240",
+                      "Column 2": "50",
+                      "Column 3": "230"
+                    },
+                    {
+                      "Column 1": "240 - 250",
+                      "Column 2": "20",
+                      "Column 3": "250"
+                    },
+                    {
+                      "Column 1": "",
+                      "Column 2": "N = 250",
+                      "Column 3": ""
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find the median of the prices of different articles.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Find the correct answer from the alternatives given.",
-                  "questionsImage": null,
-                  "subQuestion": [
+                  "question": "The prices of different articles and demand for them is shown in the following frequency distribution table. Find the median of the prices: Class (Prices in Rupees) | 0 - 20 | 20 - 40 | 40 - 60 | 60 - 80 | 80 - 100 | No. of articles | 140 | 100 | 80 | 60 | 20",
+                  "ans": "Class | Frequency (f_i) | Cumulative frequency (less than upper limit)\n0 - 20 | 140 | 140\n20 - 40 (Median Class) | 100 | 240\n40 - 60 | 80 | 320\n60 - 80 | 60 | 380\n80 - 100 | 20 | 400\nTotal | N = 400 |\n∑f_i = N = 400\nN ÷ 2 = 400 ÷ 2 = 200\nThe cumulative frequency greater than or equal to 200 is 240, so the median class is 20 - 40.\nL = 20, f = 100, cf = 140, h = 20\nMedian = L + [(N ÷ 2 − cf) ÷ f] × h\n= 20 + [(200 − 140) ÷ 100] × 20\n= 20 + (60 ÷ 100) × 20\n= 20 + 12\n= ₹32\nHence, the median of the prices is ₹32.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": [
                     {
-                      "question": "The median of the distances covered per litre shown in the following data is in the group: Distance Covered per litre (km) | 12 - 14 | 14 - 16 | 16 - 18 | 18 - 20 | No. of cars | 11 | 12 | 20 | 7",
-                      "ans": "The class 16 - 18 has the highest frequency (20).\nThus, the median of the distances covered per litre lies in the 16 - 18 group.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
+                      "Column 1": "0 - 20",
+                      "Column 2": "140",
+                      "Column 3": "140"
+                    },
+                    {
+                      "Column 1": "20 - 40 (Median Class)",
+                      "Column 2": "100",
+                      "Column 3": "240"
+                    },
+                    {
+                      "Column 1": "40 - 60",
+                      "Column 2": "80",
+                      "Column 3": "320"
+                    },
+                    {
+                      "Column 1": "60 - 80",
+                      "Column 2": "60",
+                      "Column 3": "380"
+                    },
+                    {
+                      "Column 1": "80 - 100",
+                      "Column 2": "20",
+                      "Column 3": "400"
+                    },
+                    {
+                      "Column 1": "",
+                      "Column 2": "N = 400",
+                      "Column 3": ""
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find the mode of demand of sweet.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Find the correct answer from the alternatives given.",
-                  "questionsImage": null,
-                  "subQuestion": [
+                  "question": "The following frequency table shows the demand for a sweet and the number of customers. Find the mode of demand of sweet: Weight of sweet (gram) | 0 - 250 | 250 - 500 | 500 - 750 | 750 - 1000 | 1000 - 1250 | No. of customers | 10 | 60 | 25 | 20 | 15",
+                  "ans": "The maximum class frequency is 60.\nThe class corresponding to this frequency is 250 - 500.\nSo, the modal class is 250 - 500.\nL (the lower limit of modal class) = 250\nf_1 (frequency of the modal class) = 60\nf_0 (frequency of the class preceding the modal class) = 10\nf_2 (frequency of the class succeeding the modal class) = 25\nh (class size) = 250\nMode = L + [(f_1 − f_0) ÷ (2f_1 − f_0 − f_2)] × h\n= 250 + [(60 − 10) ÷ (2 × 60 − 10 − 25)] × 250\n= 250 + [50 ÷ (120 − 10 − 25)] × 250\n= 250 + (50 ÷ 85) × 250\n= 250 + 147.06\n= 397.06\nHence, the modal demand of sweet is 397.06 grams.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Draw a histogram for the following frequency distribution.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Use of electricity (Unit) | 50 - 70 | 70 - 90 | 90 - 110 | 110 - 130 | 130 - 150 | 150 - 170 | No. of families | 150 | 400 | 460 | 540 | 600 | 350",
+                  "ans": "The histogram for the given data is shown below:",
+                  "youtubeVideoPath": null,
+                  "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_127.png",
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Present the information by a frequency polygon.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "In a handloom factory different workers take different periods of time to weave a saree. The number of workers and their required periods are given below. Present the information by a frequency polygon: No. of days | 8 - 10 | 10 - 12 | 12 - 14 | 14 - 16 | 16 - 18 | 18 - 20 | No. of workers | 5 | 16 | 30 | 40 | 35 | 14",
+                  "ans": "Class | Class Mark | Frequency (No. of workers)\n8 - 10 | 9 | 5\n10 - 12 | 11 | 16\n12 - 14 | 13 | 30\n14 - 16 | 15 | 40\n16 - 18 | 17 | 35\n18 - 20 | 19 | 14\nThe frequency polygon using the class mark and frequency given in the above table is shown below:",
+                  "youtubeVideoPath": null,
+                  "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_128.png",
+                  "subAns": [
                     {
-                      "question": "The above data is to be shown by a frequency polygon. The coordinates of the points to show number of students in the class 4-6 are: No. of trees planted by each student | 1 - 3 | 4 - 6 | 7 - 9 | 10 - 12 | No. of students | 7 | 8 | 6 | 4",
-                      "ans": "The coordinates of the points to show the number of students in the class 4-6 are (5, 8).",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
+                      "Column 1": "8 - 10",
+                      "Column 2": "9",
+                      "Column 3": "5"
+                    },
+                    {
+                      "Column 1": "10 - 12",
+                      "Column 2": "11",
+                      "Column 3": "16"
+                    },
+                    {
+                      "Column 1": "12 - 14",
+                      "Column 2": "13",
+                      "Column 3": "30"
+                    },
+                    {
+                      "Column 1": "14 - 16",
+                      "Column 2": "15",
+                      "Column 3": "40"
+                    },
+                    {
+                      "Column 1": "16 - 18",
+                      "Column 2": "17",
+                      "Column 3": "35"
+                    },
+                    {
+                      "Column 1": "18 - 20",
+                      "Column 2": "19",
+                      "Column 3": "14"
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Show the information by a histogram and a frequency polygon.",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                  "questionsTitle": "Find the mean of the income of farmers in a grape season.",
+                  "question": "The time required for students to do a science experiment and the number of students is shown in the following grouped frequency distribution table. Show the information by a histogram and also by a frequency polygon: Time required for experiment (minutes) | 20 - 22 | 22 - 24 | 24 - 26 | 26 - 28 | 28 - 30 | 30 - 32 | No. of students | 8 | 16 | 22 | 18 | 14 | 12",
+                  "ans": "Class | Class Mark | Frequency (No. of students)\n20 - 22 | 21 | 8\n22 - 24 | 23 | 16\n24 - 26 | 25 | 22\n26 - 28 | 27 | 18\n28 - 30 | 29 | 14\n30 - 32 | 31 | 12\nThe frequency polygon using the class mark and frequency given in the above table is shown below:",
+                  "youtubeVideoPath": null,
+                  "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_129.png",
+                  "subAns": [
+                    {
+                      "Column 1": "20 - 22",
+                      "Column 2": "21",
+                      "Column 3": "8"
+                    },
+                    {
+                      "Column 1": "22 - 24",
+                      "Column 2": "23",
+                      "Column 3": "16"
+                    },
+                    {
+                      "Column 1": "24 - 26",
+                      "Column 2": "25",
+                      "Column 3": "22"
+                    },
+                    {
+                      "Column 1": "26 - 28",
+                      "Column 2": "27",
+                      "Column 3": "18"
+                    },
+                    {
+                      "Column 1": "28 - 30",
+                      "Column 2": "29",
+                      "Column 3": "14"
+                    },
+                    {
+                      "Column 1": "30 - 32",
+                      "Column 2": "31",
+                      "Column 3": "12"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Draw a frequency polygon for the following grouped frequency distribution table.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Age of the donor (Yrs.) | 20 - 24 | 25 - 29 | 30 - 34 | 35 - 39 | 40 - 44 | 45 - 49 | No. of blood donors | 38 | 46 | 35 | 24 | 15 | 12",
+                  "ans": "Class | Continuous Class | Class Mark | Frequency (No. of blood donors)\n20 - 24 | 19.5 - 24.5 | 22 | 38\n25 - 29 | 24.5 - 29.5 | 27 | 46\n30 - 34 | 29.5 - 34.5 | 32 | 35\n35 - 39 | 34.5 - 39.5 | 37 | 24\n40 - 44 | 39.5 - 44.5 | 42 | 15\n45 - 49 | 44.5 - 49.5 | 47 | 12\nThe frequency polygon using the class mark and frequency given in the above table is shown below:",
+                  "youtubeVideoPath": null,
+                  "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_130.png",
+                  "subAns": [
+                    {
+                      "Column 1": "20 - 24",
+                      "Column 2": "19.5 - 24.5",
+                      "Column 3": "22",
+                      "Column 4": "38"
+                    },
+                    {
+                      "Column 1": "25 - 29",
+                      "Column 2": "24.5 - 29.5",
+                      "Column 3": "27",
+                      "Column 4": "46"
+                    },
+                    {
+                      "Column 1": "30 - 34",
+                      "Column 2": "29.5 - 34.5",
+                      "Column 3": "32",
+                      "Column 4": "35"
+                    },
+                    {
+                      "Column 1": "35 - 39",
+                      "Column 2": "34.5 - 39.5",
+                      "Column 3": "37",
+                      "Column 4": "24"
+                    },
+                    {
+                      "Column 1": "40 - 44",
+                      "Column 2": "39.5 - 44.5",
+                      "Column 3": "42",
+                      "Column 4": "15"
+                    },
+                    {
+                      "Column 1": "45 - 49",
+                      "Column 2": "44.5 - 49.5",
+                      "Column 3": "47",
+                      "Column 4": "12"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Show the information by a frequency polygon.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "The following table shows the average rainfall in 150 towns. Show the information by a frequency polygon: Average rainfall (cm) | 0 - 20 | 20 - 40 | 40 - 60 | 60 - 80 | 80 - 100 | No. of towns | 14 | 12 | 36 | 48 | 40",
+                  "ans": "Class | Class Mark | Frequency (No. of towns)\n0 - 20 | 10 | 14\n20 - 40 | 30 | 12\n40 - 60 | 50 | 36\n60 - 80 | 70 | 48\n80 - 100 | 90 | 40\nThe frequency polygon using the class mark and frequency given in the above table is shown below:",
+                  "youtubeVideoPath": null,
+                  "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_131.png",
+                  "subAns": [
+                    {
+                      "Column 1": "0 - 20",
+                      "Column 2": "10",
+                      "Column 3": "14"
+                    },
+                    {
+                      "Column 1": "20 - 40",
+                      "Column 2": "30",
+                      "Column 3": "12"
+                    },
+                    {
+                      "Column 1": "40 - 60",
+                      "Column 2": "50",
+                      "Column 3": "36"
+                    },
+                    {
+                      "Column 1": "60 - 80",
+                      "Column 2": "70",
+                      "Column 3": "48"
+                    },
+                    {
+                      "Column 1": "80 - 100",
+                      "Column 2": "90",
+                      "Column 3": "40"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find the central angle for each type of vehicle and the total number of vehicles.",
+              "questionsImage": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_132.png",
+              "subQuestion": [
+                {
+                  "question": "Observe the adjacent pie diagram. It shows the percentages of number of vehicles passing a signal in a town between 8 am and 10 am. (1) Find the central angle for each type of vehicle. (2) If the number of two-wheelers is 1200, find the number of all vehicles.",
+                  "ans": "(1) Central angle for cars = (30 ÷ 100) × 360° = 108°\nCentral angle for tempos = (12 ÷ 100) × 360° = 43.2°\nCentral angle for buses = (8 ÷ 100) × 360° = 28.8°\nCentral angle for auto rickshaws = (10 ÷ 100) × 360° = 36°\nCentral angle for two-wheelers = (40 ÷ 100) × 360° = 144°\n(2) Number of two-wheelers = 1200\n(40 ÷ 100) × Total number of vehicles = 1200\nTotal number of vehicles = (100 ÷ 40) × 1200 = 3000\nHence, (1) 108°, 43.2°, 28.8°, 36°, 144°, (2) 3000.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_132.png",
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Show the causes of noise pollution by a pie diagram.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "questionsTitle": "The following table shows causes of noise pollution. Show it by a pie diagram.ConstructionTrafficAircraft take offsIndustryTrains10%50%9%20%11%",
                   "questionsImage": null,
                   "subQuestion": [
                     {
-                      "question": "The following table shows the income of farmers in a grape season. Find the mean of their income: Class (Income in thousand rupees) | 20 - 30 | 30 - 40 | 40 - 50 | 50 - 60 | 60 - 70 | 70 - 80 | No. of farmers | 10 | 11 | 15 | 16 | 18 | 14",
-                      "ans": "Class | Class Mark (x_i) | Frequency (f_i) | x_i f_i\n20 - 30 | 25 | 10 | 250\n30 - 40 | 35 | 11 | 385\n40 - 50 | 45 | 15 | 675\n50 - 60 | 55 | 16 | 880\n60 - 70 | 65 | 18 | 1170\n70 - 80 | 75 | 14 | 1050\nTotal | | ∑f_i = 84 | ∑x_i f_i = 4410\nMean = ∑x_i f_i ÷ ∑f_i\n= 4410 ÷ 84 = 52.5\nHence, the mean income is 52.5 thousand rupees = ₹52500.",
+                      "question": "The following table shows causes of noise pollution. Show it by a pie diagram.",
+                      "ans": "The measures of central angles are given  in the table.Cause of noise pollutionPercentageCentral AngleConstruction10%`10/100 xx 360 = 36°`Traffic50%`50/100 xx 360 = 180°`Aircraft take offs9%`9/100 xx 360 = 32.4°`Industry20%`20/100 xx 360 = 72°`Trains11%`11/100 xx 360 = 39.6°`Total100%The pie digram showing the above data is given below:",
                       "youtubeVideoPath": null,
-                      "imgUrl": null,
+                      "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_133.png",
                       "subAns": [
                         {
-                          "Column 1": "20 - 30",
-                          "Column 2": "25",
-                          "Column 3": "10",
-                          "Column 4": "250"
+                          "Column 1": "Construction",
+                          "Column 2": "10%",
+                          "Column 3": "10/100 xx 360 = 36°"
                         },
                         {
-                          "Column 1": "30 - 40",
-                          "Column 2": "35",
-                          "Column 3": "11",
-                          "Column 4": "385"
+                          "Column 1": "Traffic",
+                          "Column 2": "50%",
+                          "Column 3": "50/100 xx 360 = 180°"
                         },
                         {
-                          "Column 1": "40 - 50",
-                          "Column 2": "45",
-                          "Column 3": "15",
-                          "Column 4": "675"
+                          "Column 1": "Aircraft take offs",
+                          "Column 2": "9%",
+                          "Column 3": "9/100 xx 360 = 32.4°"
                         },
                         {
-                          "Column 1": "50 - 60",
-                          "Column 2": "55",
-                          "Column 3": "16",
-                          "Column 4": "880"
+                          "Column 1": "Industry",
+                          "Column 2": "20%",
+                          "Column 3": "20/100 xx 360 = 72°"
                         },
                         {
-                          "Column 1": "60 - 70",
-                          "Column 2": "65",
-                          "Column 3": "18",
-                          "Column 4": "1170"
+                          "Column 1": "Trains",
+                          "Column 2": "11%",
+                          "Column 3": "11/100 xx 360 = 39.6°"
                         },
                         {
-                          "Column 1": "70 - 80",
-                          "Column 2": "75",
-                          "Column 3": "14",
-                          "Column 4": "1050"
-                        },
-                        {
-                          "Column 1": "",
-                          "Column 2": "",
-                          "Column 3": "∑f_i = 84",
-                          "Column 4": "∑x_i f_i = 4410"
+                          "Column 1": "Total",
+                          "Column 2": "100%",
+                          "Column 3": ""
                         }
                       ]
                     }
                   ]
                 },
                 {
-                  "questionsTitle": "Find the mean of the loans sanctioned by a bank for construction of farm ponds.",
-                  "questionsImage": null,
+                  "questionsTitle": "A survey of students was made to know which game they like. The data obtained in the survey is presented in the adjacent pie diagram. If the total number of students are 1000,(1) How many students like cricket ?(2) How many students like football ?(3) How many students prefer other games ?",
+                  "questionsImage": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_134.png",
                   "subQuestion": [
                     {
-                      "question": "The loans sanctioned by a bank for construction of farm ponds are shown in the following table. Find the mean of the loans: Loan (Thousand Rupees) | 40 - 50 | 50 - 60 | 60 - 70 | 70 - 80 | 80 - 90 | No. of farm ponds | 13 | 20 | 24 | 36 | 7",
-                      "ans": "Class | Class Mark (x_i) | Frequency (f_i) | x_i f_i\n40 - 50 | 45 | 13 | 585\n50 - 60 | 55 | 20 | 1100\n60 - 70 | 65 | 24 | 1560\n70 - 80 | 75 | 36 | 2700\n80 - 90 | 85 | 7 | 595\nTotal | | ∑f_i = 100 | ∑x_i f_i = 6540\nMean = ∑x_i f_i ÷ ∑f_i\n= 6540 ÷ 100 = 65\nHence, the mean of the loans is 65 thousand rupees = ₹65000.",
+                      "question": "A survey of students was made to know which game they like. The data obtained in the survey is presented in the adjacent pie diagram. If the total number of students are 1000,",
+                      "ans": "(1)Number of students like cricket = `(\"Central angle for cricket\" )/(360°) xx Total number of students= (81°)/(360°) xx 1000`= 225Hence, 225 students like cricket.(2)Number of students like football  = `(\"Central angle for football\" )/(360°) xx Total number of students= (63°)/(360°) xx 1000`= 175Hence, 175 students like football.(3)Number of students like other games = `(\"Central angle for other games \" )/(360°) xx Total number of students= (72°)/(360°) xx 1000`=200Hence, 200 students like other games.",
                       "youtubeVideoPath": null,
                       "imgUrl": null,
-                      "subAns": [
-                        {
-                          "Column 1": "40 - 50",
-                          "Column 2": "45",
-                          "Column 3": "13",
-                          "Column 4": "585"
-                        },
-                        {
-                          "Column 1": "50 - 60",
-                          "Column 2": "55",
-                          "Column 3": "20",
-                          "Column 4": "1100"
-                        },
-                        {
-                          "Column 1": "60 - 70",
-                          "Column 2": "65",
-                          "Column 3": "24",
-                          "Column 4": "1560"
-                        },
-                        {
-                          "Column 1": "70 - 80",
-                          "Column 2": "75",
-                          "Column 3": "36",
-                          "Column 4": "2700"
-                        },
-                        {
-                          "Column 1": "80 - 90",
-                          "Column 2": "85",
-                          "Column 3": "7",
-                          "Column 4": "595"
-                        },
-                        {
-                          "Column 1": "",
-                          "Column 2": "",
-                          "Column 3": "∑f_i = 100",
-                          "Column 4": "∑x_i f_i = 6540"
-                        }
-                      ]
+                      "subAns": null
+                    },
+                    {
+                      "question": "(1) How many students like cricket ?(2) How many students like football ?(3) How many students prefer other games ?",
+                      "ans": "No solution available",
+                      "youtubeVideoPath": null,
+                      "imgUrl": null,
+                      "subAns": null
                     }
                   ]
                 },
                 {
-                  "questionsTitle": "Find the mean of the weekly wages of 120 workers in a factory.",
+                  "questionsTitle": "Medical check up of 180 women was conducted in a health centre in a village. 50 of them were short of haemoglobin, 10 suffered from cataract and 25 had respiratory disorders. The remaining women were healthy. Show the information by a pie diagram.",
                   "questionsImage": null,
                   "subQuestion": [
                     {
-                      "question": "The weekly wages of 120 workers in a factory are shown in the following frequency distribution table. Find the mean of the weekly wages: Weekly wages (Rupees) | 0 - 2000 | 2000 - 4000 | 4000 - 6000 | 6000 - 8000 | No. of workers | 15 | 35 | 50 | 20",
-                      "ans": "Class | Class Mark (x_i) | Frequency (f_i) | x_i f_i\n0 - 2000 | 1000 | 15 | 15000\n2000 - 4000 | 3000 | 35 | 105000\n4000 - 6000 | 5000 | 50 | 250000\n6000 - 8000 | 7000 | 20 | 140000\nTotal | | ∑f_i = 120 | ∑x_i f_i = 510000\nMean = ∑x_i f_i ÷ ∑f_i\n= 510000 ÷ 120 = 4250\nHence, the mean of the weekly wages is ₹4250.",
+                      "question": "Medical check up of 180 women was conducted in a health centre in a village. 50 of them were short of haemoglobin, 10 suffered from cataract and 25 had respiratory disorders. The remaining women were healthy. Show the information by a pie diagram.",
+                      "ans": "The measures of central angles are given  in the table.Health conditionNumber of womenCentral AngleShort of haemoglobin50`50/180 xx 360 = 100°`Suffered from cataract10`10/180 xx 360 = 20°`Respiratory disorders25`25/180 xx 360 = 50°`Healthy95`95/180 xx 360 = 190°`Total180The pie digram showing the above data is given below:",
                       "youtubeVideoPath": null,
-                      "imgUrl": null,
+                      "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_135.png",
                       "subAns": [
                         {
-                          "Column 1": "0 - 2000",
-                          "Column 2": "1000",
-                          "Column 3": "15",
-                          "Column 4": "15000"
-                        },
-                        {
-                          "Column 1": "2000 - 4000",
-                          "Column 2": "3000",
-                          "Column 3": "35",
-                          "Column 4": "105000"
-                        },
-                        {
-                          "Column 1": "4000 - 6000",
-                          "Column 2": "5000",
-                          "Column 3": "50",
-                          "Column 4": "250000"
-                        },
-                        {
-                          "Column 1": "6000 - 8000",
-                          "Column 2": "7000",
-                          "Column 3": "20",
-                          "Column 4": "140000"
-                        },
-                        {
-                          "Column 1": "",
-                          "Column 2": "",
-                          "Column 3": "∑f_i = 120",
-                          "Column 4": "∑x_i f_i = 510000"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "questionsTitle": "Find the mean of the amount of aid given to 50 flood-affected families.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "The following frequency distribution table shows the amount of aid given to 50 flood affected families. Find the mean of the amount of aid: Amount of aid (Thousand rupees bitte) | 50 - 60 | 60 - 70 | 70 - 80 | 80 - 90 | 90 - 100 | No. of families | 7 | 13 | 20 | 6 | 4",
-                      "ans": "Class | Class Mark (x_i) | Frequency (f_i) | x_i f_i\n50 - 60 | 55 | 7 | 385\n60 - 70 | 65 | 13 | 845\n70 - 80 | 75 | 20 | 1500\n80 - 90 | 85 | 6 | 510\n90 - 100 | 95 | 4 | 380\nTotal | | ∑f_i = 50 | ∑x_i f_i = 3620\nMean = ∑x_i f_i ÷ ∑f_i\n= 3620 ÷ 50 = 72.4\nHence, the mean of the amount of aid is 72.4 thousand rupees = ₹72400.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": [
-                        {
-                          "Column 1": "50 - 60",
-                          "Column 2": "55",
-                          "Column 3": "7",
-                          "Column 4": "385"
-                        },
-                        {
-                          "Column 1": "60 - 70",
-                          "Column 2": "65",
-                          "Column 3": "13",
-                          "Column 4": "845"
-                        },
-                        {
-                          "Column 1": "70 - 80",
-                          "Column 2": "75",
-                          "Column 3": "20",
-                          "Column 4": "1500"
-                        },
-                        {
-                          "Column 1": "80 - 90",
-                          "Column 2": "85",
-                          "Column 3": "6",
-                          "Column 4": "510"
-                        },
-                        {
-                          "Column 1": "90 - 100",
-                          "Column 2": "95",
-                          "Column 3": "4",
-                          "Column 4": "380"
-                        },
-                        {
-                          "Column 1": "",
-                          "Column 2": "",
-                          "Column 3": "∑f_i = 50",
-                          "Column 4": "∑x_i f_i = 3620"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "questionsTitle": "Find the median of the distance covered by 250 public transport buses in a day.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "The distances covered by 250 public transport buses in a day is shown in the following frequency distribution table. Find the median of the distance: Distance (km) | 200 - 210 | 210 - 220 | 220 - 230 | 230 - 240 | 240 - 250 | seviyes No. of buses | 40 | 60 | 80 | 50 | 20",
-                      "ans": "Class | Frequency (f_i) | Cumulative frequency (less than upper limit)\n200 - 210 | 40 | 40\n210 - 220 | 60 | 100\n220 - 230 (Median Class) | 80 | 180\n230 - 240 | 50 | 230\n240 - 250 | 20 | 250\nTotal | N = 250 |\nL (Lower class limit of the median class) = 220\nN (Sum of frequencies) = 250\nh (Class interval of the median class) = 10\nf (Frequency of the median class) = 80\ncf (Cumulative frequency of the class preceding the median class) = 100\nMedian = L + [(N ÷ 2 − cf) ÷ f] × h\n= 220 + [(250 ÷ 2 − 100) ÷ 80] × 10\n= 220 + [25 ÷ 80] × 10\n= 220 + 3.125\n= 223.125 km\nHence, the median of the distances is 223.125 km.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": [
-                        {
-                          "Column 1": "200 - 210",
-                          "Column 2": "40",
-                          "Column 3": "40"
-                        },
-                        {
-                          "Column 1": "210 - 220",
-                          "Column 2": "60",
-                          "Column 3": "100"
-                        },
-                        {
-                          "Column 1": "220 - 230 (Median Class)",
-                          "Column 2": "80",
-                          "Column 3": "180"
-                        },
-                        {
-                          "Column 1": "230 - 240",
+                          "Column 1": "Short of haemoglobin",
                           "Column 2": "50",
-                          "Column 3": "230"
+                          "Column 3": "50/180 xx 360 = 100°"
                         },
                         {
-                          "Column 1": "240 - 250",
-                          "Column 2": "20",
-                          "Column 3": "250"
-                        },
-                        {
-                          "Column 1": "",
-                          "Column 2": "N = 250",
-                          "Column 3": ""
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "questionsTitle": "Find the median of the prices of different articles.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "The prices of different articles and demand for them is shown in the following frequency distribution table. Find the median of the prices: Class (Prices in Rupees) | 0 - 20 | 20 - 40 | 40 - 60 | 60 - 80 | 80 - 100 | No. of articles | 140 | 100 | 80 | 60 | 20",
-                      "ans": "Class | Frequency (f_i) | Cumulative frequency (less than upper limit)\n0 - 20 | 140 | 140\n20 - 40 (Median Class) | 100 | 240\n40 - 60 | 80 | 320\n60 - 80 | 60 | 380\n80 - 100 | 20 | 400\nTotal | N = 400 |\n∑f_i = N = 400\nN ÷ 2 = 400 ÷ 2 = 200\nThe cumulative frequency greater than or equal to 200 is 240, so the median class is 20 - 40.\nL = 20, f = 100, cf = 140, h = 20\nMedian = L + [(N ÷ 2 − cf) ÷ f] × h\n= 20 + [(200 − 140) ÷ 100] × 20\n= 20 + (60 ÷ 100) × 20\n= 20 + 12\n= ₹32\nHence, the median of the prices is ₹32.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": [
-                        {
-                          "Column 1": "0 - 20",
-                          "Column 2": "140",
-                          "Column 3": "140"
-                        },
-                        {
-                          "Column 1": "20 - 40 (Median Class)",
-                          "Column 2": "100",
-                          "Column 3": "240"
-                        },
-                        {
-                          "Column 1": "40 - 60",
-                          "Column 2": "80",
-                          "Column 3": "320"
-                        },
-                        {
-                          "Column 1": "60 - 80",
-                          "Column 2": "60",
-                          "Column 3": "380"
-                        },
-                        {
-                          "Column 1": "80 - 100",
-                          "Column 2": "20",
-                          "Column 3": "400"
-                        },
-                        {
-                          "Column 1": "",
-                          "Column 2": "N = 400",
-                          "Column 3": ""
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "questionsTitle": "Find the mode of demand of sweet.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "The following frequency table shows the demand for a sweet and the number of customers. Find the mode of demand of sweet: Weight of sweet (gram) | 0 - 250 | 250 - 500 | 500 - 750 | 750 - 1000 | 1000 - 1250 | No. of customers | 10 | 60 | 25 | 20 | 15",
-                      "ans": "The maximum class frequency is 60.\nThe class corresponding to this frequency is 250 - 500.\nSo, the modal class is 250 - 500.\nL (the lower limit of modal class) = 250\nf_1 (frequency of the modal class) = 60\nf_0 (frequency of the class preceding the modal class) = 10\nf_2 (frequency of the class succeeding the modal class) = 25\nh (class size) = 250\nMode = L + [(f_1 − f_0) ÷ (2f_1 − f_0 − f_2)] × h\n= 250 + [(60 − 10) ÷ (2 × 60 − 10 − 25)] × 250\n= 250 + [50 ÷ (120 − 10 − 25)] × 250\n= 250 + (50 ÷ 85) × 250\n= 250 + 147.06\n= 397.06\nHence, the modal demand of sweet is 397.06 grams.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": null,
-                      "subAns": null
-                    }
-                  ]
-                },
-                {
-                  "questionsTitle": "Draw a histogram for the following frequency distribution.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "Use of electricity (Unit) | 50 - 70 | 70 - 90 | 90 - 110 | 110 - 130 | 130 - 150 | 150 - 170 | No. of families | 150 | 400 | 460 | 540 | 600 | 350",
-                      "ans": "The histogram for the given data is shown below:",
-                      "youtubeVideoPath": null,
-                      "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_127.png",
-                      "subAns": null
-                    }
-                  ]
-                },
-                {
-                  "questionsTitle": "Present the information by a frequency polygon.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "In a handloom factory different workers take different periods of time to weave a saree. The number of workers and their required periods are given below. Present the information by a frequency polygon: No. of days | 8 - 10 | 10 - 12 | 12 - 14 | 14 - 16 | 16 - 18 | 18 - 20 | No. of workers | 5 | 16 | 30 | 40 | 35 | 14",
-                      "ans": "Class | Class Mark | Frequency (No. of workers)\n8 - 10 | 9 | 5\n10 - 12 | 11 | 16\n12 - 14 | 13 | 30\n14 - 16 | 15 | 40\n16 - 18 | 17 | 35\n18 - 20 | 19 | 14\nThe frequency polygon using the class mark and frequency given in the above table is shown below:",
-                      "youtubeVideoPath": null,
-                      "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_128.png",
-                      "subAns": [
-                        {
-                          "Column 1": "8 - 10",
-                          "Column 2": "9",
-                          "Column 3": "5"
-                        },
-                        {
-                          "Column 1": "10 - 12",
-                          "Column 2": "11",
-                          "Column 3": "16"
-                        },
-                        {
-                          "Column 1": "12 - 14",
-                          "Column 2": "13",
-                          "Column 3": "30"
-                        },
-                        {
-                          "Column 1": "14 - 16",
-                          "Column 2": "15",
-                          "Column 3": "40"
-                        },
-                        {
-                          "Column 1": "16 - 18",
-                          "Column 2": "17",
-                          "Column 3": "35"
-                        },
-                        {
-                          "Column 1": "18 - 20",
-                          "Column 2": "19",
-                          "Column 3": "14"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "questionsTitle": "Show the information by a histogram and a frequency polygon.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "The time required for students to do a science experiment and the number of students is shown in the following grouped frequency distribution table. Show the information by a histogram and also by a frequency polygon: Time required for experiment (minutes) | 20 - 22 | 22 - 24 | 24 - 26 | 26 - 28 | 28 - 30 | 30 - 32 | No. of students | 8 | 16 | 22 | 18 | 14 | 12",
-                      "ans": "Class | Class Mark | Frequency (No. of students)\n20 - 22 | 21 | 8\n22 - 24 | 23 | 16\n24 - 26 | 25 | 22\n26 - 28 | 27 | 18\n28 - 30 | 29 | 14\n30 - 32 | 31 | 12\nThe frequency polygon using the class mark and frequency given in the above table is shown below:",
-                      "youtubeVideoPath": null,
-                      "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_129.png",
-                      "subAns": [
-                        {
-                          "Column 1": "20 - 22",
-                          "Column 2": "21",
-                          "Column 3": "8"
-                        },
-                        {
-                          "Column 1": "22 - 24",
-                          "Column 2": "23",
-                          "Column 3": "16"
-                        },
-                        {
-                          "Column 1": "24 - 26",
-                          "Column 2": "25",
-                          "Column 3": "22"
-                        },
-                        {
-                          "Column 1": "26 - 28",
-                          "Column 2": "27",
-                          "Column 3": "18"
-                        },
-                        {
-                          "Column 1": "28 - 30",
-                          "Column 2": "29",
-                          "Column 3": "14"
-                        },
-                        {
-                          "Column 1": "30 - 32",
-                          "Column 2": "31",
-                          "Column 3": "12"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "questionsTitle": "Draw a frequency polygon for the following grouped frequency distribution table.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "Age of the donor (Yrs.) | 20 - 24 | 25 - 29 | 30 - 34 | 35 - 39 | 40 - 44 | 45 - 49 | No. of blood donors | 38 | 46 | 35 | 24 | 15 | 12",
-                      "ans": "Class | Continuous Class | Class Mark | Frequency (No. of blood donors)\n20 - 24 | 19.5 - 24.5 | 22 | 38\n25 - 29 | 24.5 - 29.5 | 27 | 46\n30 - 34 | 29.5 - 34.5 | 32 | 35\n35 - 39 | 34.5 - 39.5 | 37 | 24\n40 - 44 | 39.5 - 44.5 | 42 | 15\n45 - 49 | 44.5 - 49.5 | 47 | 12\nThe frequency polygon using the class mark and frequency given in the above table is shown below:",
-                      "youtubeVideoPath": null,
-                      "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_130.png",
-                      "subAns": [
-                        {
-                          "Column 1": "20 - 24",
-                          "Column 2": "19.5 - 24.5",
-                          "Column 3": "22",
-                          "Column 4": "38"
-                        },
-                        {
-                          "Column 1": "25 - 29",
-                          "Column 2": "24.5 - 29.5",
-                          "Column 3": "27",
-                          "Column 4": "46"
-                        },
-                        {
-                          "Column 1": "30 - 34",
-                          "Column 2": "29.5 - 34.5",
-                          "Column 3": "32",
-                          "Column 4": "35"
-                        },
-                        {
-                          "Column 1": "35 - 39",
-                          "Column 2": "34.5 - 39.5",
-                          "Column 3": "37",
-                          "Column 4": "24"
-                        },
-                        {
-                          "Column 1": "40 - 44",
-                          "Column 2": "39.5 - 44.5",
-                          "Column 3": "42",
-                          "Column 4": "15"
-                        },
-                        {
-                          "Column 1": "45 - 49",
-                          "Column 2": "44.5 - 49.5",
-                          "Column 3": "47",
-                          "Column 4": "12"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "questionsTitle": "Show the information by a frequency polygon.",
-                  "questionsImage": null,
-                  "subQuestion": [
-                    {
-                      "question": "The following table shows the average rainfall in 150 towns. Show the information by a frequency polygon: Average rainfall (cm) | 0 - 20 | 20 - 40 | 40 - 60 | 60 - 80 | 80 - 100 | No. of towns | 14 | 12 | 36 | 48 | 40",
-                      "ans": "Class | Class Mark | Frequency (No. of towns)\n0 - 20 | 10 | 14\n20 - 40 | 30 | 12\n40 - 60 | 50 | 36\n60 - 80 | 70 | 48\n80 - 100 | 90 | 40\nThe frequency polygon using the class mark and frequency given in the above table is shown below:",
-                      "youtubeVideoPath": null,
-                      "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_131.png",
-                      "subAns": [
-                        {
-                          "Column 1": "0 - 20",
+                          "Column 1": "Suffered from cataract",
                           "Column 2": "10",
-                          "Column 3": "14"
+                          "Column 3": "10/180 xx 360 = 20°"
                         },
                         {
-                          "Column 1": "20 - 40",
-                          "Column 2": "30",
-                          "Column 3": "12"
+                          "Column 1": "Respiratory disorders",
+                          "Column 2": "25",
+                          "Column 3": "25/180 xx 360 = 50°"
                         },
                         {
-                          "Column 1": "40 - 60",
-                          "Column 2": "50",
-                          "Column 3": "36"
+                          "Column 1": "Healthy",
+                          "Column 2": "95",
+                          "Column 3": "95/180 xx 360 = 190°"
                         },
                         {
-                          "Column 1": "60 - 80",
-                          "Column 2": "70",
-                          "Column 3": "48"
-                        },
-                        {
-                          "Column 1": "80 - 100",
-                          "Column 2": "90",
-                          "Column 3": "40"
+                          "Column 1": "Total",
+                          "Column 2": "180",
+                          "Column 3": ""
                         }
                       ]
                     }
                   ]
                 },
                 {
-                  "questionsTitle": "Find the central angle for each type of vehicle and the total number of vehicles.",
-                  "questionsImage": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_132.png",
-                  "subQuestion": [
-                    {
-                      "question": "Observe the adjacent pie diagram. It shows the percentages of number of vehicles passing a signal in a town between 8 am and 10 am. (1) Find the central angle for each type of vehicle. (2) If the number of two-wheelers is 1200, find the number of all vehicles.",
-                      "ans": "(1) Central angle for cars = (30 ÷ 100) × 360° = 108°\nCentral angle for tempos = (12 ÷ 100) × 360° = 43.2°\nCentral angle for buses = (8 ÷ 100) × 360° = 28.8°\nCentral angle for auto rickshaws = (10 ÷ 100) × 360° = 36°\nCentral angle for two-wheelers = (40 ÷ 100) × 360° = 144°\n(2) Number of two-wheelers = 1200\n(40 ÷ 100) × Total number of vehicles = 1200\nTotal number of vehicles = (100 ÷ 40) × 1200 = 3000\nHence, (1) 108°, 43.2°, 28.8°, 36°, 144°, (2) 3000.",
-                      "youtubeVideoPath": null,
-                      "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_132.png",
-                      "subAns": null
-                    }
-                  ]
-                },
-                {
-                  "questionsTitle": "Show the causes of noise pollution by a pie diagram.",
+                  "questionsTitle": "On an environment day, students in a school planted 120 trees under plantation project. The information regarding the project is shown in the following table. Show it by a pie diagram.Tree nameKaranjBehadaArjunBakulKadunimbNo. of trees2028242226",
                   "questionsImage": null,
                   "subQuestion": [
                     {
-                      "questionsTitle": "The following table shows causes of noise pollution. Show it by a pie diagram.ConstructionTrafficAircraft take offsIndustryTrains10%50%9%20%11%",
-                      "questionsImage": null,
-                      "subQuestion": [
+                      "question": "On an environment day, students in a school planted 120 trees under plantation project. The information regarding the project is shown in the following table. Show it by a pie diagram.",
+                      "ans": "Total number of trees planted = 120Measure of central angle (θ) = `\"Number of scores in the components\"/\"Total number of scores\" × 360°`Tree NameNumber of tressCentral AngleKaranj20`20/120×360=60°`Behada28`28/120×360=84°`Arjun24`24/120×360=72°`Bakul22`22/120×360=66°`Kadunimb26`26/120×360=78°`Total120360°The pie digram showing the above data is given below:",
+                      "youtubeVideoPath": null,
+                      "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_136.png",
+                      "subAns": [
                         {
-                          "question": "The following table shows causes of noise pollution. Show it by a pie diagram.",
-                          "ans": "The measures of central angles are given  in the table.Cause of noise pollutionPercentageCentral AngleConstruction10%`10/100 xx 360 = 36°`Traffic50%`50/100 xx 360 = 180°`Aircraft take offs9%`9/100 xx 360 = 32.4°`Industry20%`20/100 xx 360 = 72°`Trains11%`11/100 xx 360 = 39.6°`Total100%The pie digram showing the above data is given below:",
-                          "youtubeVideoPath": null,
-                          "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_133.png",
-                          "subAns": [
-                            {
-                              "Column 1": "Construction",
-                              "Column 2": "10%",
-                              "Column 3": "10/100 xx 360 = 36°"
-                            },
-                            {
-                              "Column 1": "Traffic",
-                              "Column 2": "50%",
-                              "Column 3": "50/100 xx 360 = 180°"
-                            },
-                            {
-                              "Column 1": "Aircraft take offs",
-                              "Column 2": "9%",
-                              "Column 3": "9/100 xx 360 = 32.4°"
-                            },
-                            {
-                              "Column 1": "Industry",
-                              "Column 2": "20%",
-                              "Column 3": "20/100 xx 360 = 72°"
-                            },
-                            {
-                              "Column 1": "Trains",
-                              "Column 2": "11%",
-                              "Column 3": "11/100 xx 360 = 39.6°"
-                            },
-                            {
-                              "Column 1": "Total",
-                              "Column 2": "100%",
-                              "Column 3": ""
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "questionsTitle": "A survey of students was made to know which game they like. The data obtained in the survey is presented in the adjacent pie diagram. If the total number of students are 1000,(1) How many students like cricket ?(2) How many students like football ?(3) How many students prefer other games ?",
-                      "questionsImage": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_134.png",
-                      "subQuestion": [
-                        {
-                          "question": "A survey of students was made to know which game they like. The data obtained in the survey is presented in the adjacent pie diagram. If the total number of students are 1000,",
-                          "ans": "(1)Number of students like cricket = `(\"Central angle for cricket\" )/(360°) xx Total number of students= (81°)/(360°) xx 1000`= 225Hence, 225 students like cricket.(2)Number of students like football  = `(\"Central angle for football\" )/(360°) xx Total number of students= (63°)/(360°) xx 1000`= 175Hence, 175 students like football.(3)Number of students like other games = `(\"Central angle for other games \" )/(360°) xx Total number of students= (72°)/(360°) xx 1000`=200Hence, 200 students like other games.",
-                          "youtubeVideoPath": null,
-                          "imgUrl": null,
-                          "subAns": null
+                          "Column 1": "Karanj",
+                          "Column 2": "20",
+                          "Column 3": "20/120×360=60°"
                         },
                         {
-                          "question": "(1) How many students like cricket ?(2) How many students like football ?(3) How many students prefer other games ?",
-                          "ans": "No solution available",
-                          "youtubeVideoPath": null,
-                          "imgUrl": null,
-                          "subAns": null
-                        }
-                      ]
-                    },
-                    {
-                      "questionsTitle": "Medical check up of 180 women was conducted in a health centre in a village. 50 of them were short of haemoglobin, 10 suffered from cataract and 25 had respiratory disorders. The remaining women were healthy. Show the information by a pie diagram.",
-                      "questionsImage": null,
-                      "subQuestion": [
+                          "Column 1": "Behada",
+                          "Column 2": "28",
+                          "Column 3": "28/120×360=84°"
+                        },
                         {
-                          "question": "Medical check up of 180 women was conducted in a health centre in a village. 50 of them were short of haemoglobin, 10 suffered from cataract and 25 had respiratory disorders. The remaining women were healthy. Show the information by a pie diagram.",
-                          "ans": "The measures of central angles are given  in the table.Health conditionNumber of womenCentral AngleShort of haemoglobin50`50/180 xx 360 = 100°`Suffered from cataract10`10/180 xx 360 = 20°`Respiratory disorders25`25/180 xx 360 = 50°`Healthy95`95/180 xx 360 = 190°`Total180The pie digram showing the above data is given below:",
-                          "youtubeVideoPath": null,
-                          "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_135.png",
-                          "subAns": [
-                            {
-                              "Column 1": "Short of haemoglobin",
-                              "Column 2": "50",
-                              "Column 3": "50/180 xx 360 = 100°"
-                            },
-                            {
-                              "Column 1": "Suffered from cataract",
-                              "Column 2": "10",
-                              "Column 3": "10/180 xx 360 = 20°"
-                            },
-                            {
-                              "Column 1": "Respiratory disorders",
-                              "Column 2": "25",
-                              "Column 3": "25/180 xx 360 = 50°"
-                            },
-                            {
-                              "Column 1": "Healthy",
-                              "Column 2": "95",
-                              "Column 3": "95/180 xx 360 = 190°"
-                            },
-                            {
-                              "Column 1": "Total",
-                              "Column 2": "180",
-                              "Column 3": ""
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "questionsTitle": "On an environment day, students in a school planted 120 trees under plantation project. The information regarding the project is shown in the following table. Show it by a pie diagram.Tree nameKaranjBehadaArjunBakulKadunimbNo. of trees2028242226",
-                      "questionsImage": null,
-                      "subQuestion": [
+                          "Column 1": "Arjun",
+                          "Column 2": "24",
+                          "Column 3": "24/120×360=72°"
+                        },
                         {
-                          "question": "On an environment day, students in a school planted 120 trees under plantation project. The information regarding the project is shown in the following table. Show it by a pie diagram.",
-                          "ans": "Total number of trees planted = 120Measure of central angle (θ) = `\"Number of scores in the components\"/\"Total number of scores\" × 360°`Tree NameNumber of tressCentral AngleKaranj20`20/120×360=60°`Behada28`28/120×360=84°`Arjun24`24/120×360=72°`Bakul22`22/120×360=66°`Kadunimb26`26/120×360=78°`Total120360°The pie digram showing the above data is given below:",
-                          "youtubeVideoPath": null,
-                          "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/std10/main/images/image_136.png",
-                          "subAns": [
-                            {
-                              "Column 1": "Karanj",
-                              "Column 2": "20",
-                              "Column 3": "20/120×360=60°"
-                            },
-                            {
-                              "Column 1": "Behada",
-                              "Column 2": "28",
-                              "Column 3": "28/120×360=84°"
-                            },
-                            {
-                              "Column 1": "Arjun",
-                              "Column 2": "24",
-                              "Column 3": "24/120×360=72°"
-                            },
-                            {
-                              "Column 1": "Bakul",
-                              "Column 2": "22",
-                              "Column 3": "22/120×360=66°"
-                            },
-                            {
-                              "Column 1": "Kadunimb",
-                              "Column 2": "26",
-                              "Column 3": "26/120×360=78°"
-                            },
-                            {
-                              "Column 1": "Total",
-                              "Column 2": "120",
-                              "Column 3": "360°"
-                            }
-                          ]
+                          "Column 1": "Bakul",
+                          "Column 2": "22",
+                          "Column 3": "22/120×360=66°"
+                        },
+                        {
+                          "Column 1": "Kadunimb",
+                          "Column 2": "26",
+                          "Column 3": "26/120×360=78°"
+                        },
+                        {
+                          "Column 1": "Total",
+                          "Column 2": "120",
+                          "Column 3": "360°"
                         }
                       ]
                     }
